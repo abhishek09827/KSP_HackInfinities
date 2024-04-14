@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
 
 
-os.environ['PANDASAI_API_KEY'] = '$2a$10$4QQRPAqIaBaY3GPe9YaumOqJClbhfxtzoLzQPMr8dgEWSLOFNqEma'
+os.environ['PANDASAI_API_KEY'] = 'PANDASAI_API_KEY'
 lake = SmartDatalake([df0, df1, df2, df3])
 st.title("Data Chat Bot Interface")
 st.header("Chat with Data")
