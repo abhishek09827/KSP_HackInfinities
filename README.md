@@ -38,3 +38,8 @@ The AI-Driven Crime Prevention System is a comprehensive solution aimed at revol
   - Efficient allocation of patrolling resources.
   - Adaptability to changing crime patterns and geographic conditions.
 
+### Video Demo Link 
+- https://youtu.be/K7XNQ1yAQkI
+   
+
+
