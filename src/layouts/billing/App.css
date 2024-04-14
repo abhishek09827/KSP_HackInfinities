@@ -1,0 +1,53 @@
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .chat-container {
+    margin-top: 20px;
+  }
+  
+  .message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 70%;
+  }
+  
+  .user {
+    background-color: #4CAF50;
+    color: white;
+    align-self: flex-end;
+  }
+  
+  .bot {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  .message-form {
+    display: flex;
+    margin-top: 20px;
+  }
+  
+  .message-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px 0 0 5px;
+  }
+  
+  .send-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  }
+  
