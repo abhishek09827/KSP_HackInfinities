@@ -1,5 +1,4 @@
-# AI-Driven Crime Prevention System - KSP Police Help
-
+# AI-Driven Crime Prevention System - KSP Police Helpp
 ## Overview
 
 The AI-Driven Crime Prevention System is a comprehensive solution aimed at revolutionizing traditional policing methods by leveraging artificial intelligence and data analysis to proactively identify and prevent criminal activities. This repository contains the code and resources for implementing the system, including real-time crime prediction, proactive crime forecasting, intuitive data analysis interface, and patrol route optimization.
